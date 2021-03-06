@@ -1,0 +1,47 @@
+body {
+  background-color: #708090;
+}
+
+hr {
+  border-color: #ffd700;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 90%;
+}
+
+body {
+  font: italic small-caps bold 16px/2 cursive;
+  font-size: 150%
+}
+
+h1 {
+  color: #000000;
+}
+
+h2 {
+  color: #fa8072;
+}
+
+label {
+  color: #00ff7f;
+}
+
+td {
+  color: #663399;
+}
+
+th {
+  color: #2f4f4f;
+}
+
+input {
+  border-color: #90ee90;
+  border-style: solid;
+}
+
+textarea {
+  border-color: #90ee90;
+  border-style: solid;
+  border-width: 2px;
+}
